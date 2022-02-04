@@ -26,4 +26,4 @@ Country: The name of the country where each customer resides.
 
 Analysis of the data will be done to
 
-The data will be analyzed to understand retail math including inventory turn, average price, revenue generation and calculating margin. It will also be used to identify trends in the revenue generation by the number of orders and analyzing when the dips happen.
+The data will be analyzed to understand retail math and metrics including inventory turn, average price, revenue generation and calculating margin. It will also be used to identify trends in the revenue generation by the number of orders and analyzing when the dips happen.
